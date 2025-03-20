@@ -1,0 +1,23 @@
+{
+  "name": "allbooks-aula-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WallaceNascimento2025/allbooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WallaceNascimento2025/allbooks/issues"
+  },
+  "homepage": "https://github.com/WallaceNascimento2025/allbooks#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
